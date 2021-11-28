@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAK.Lib.CoreLite", "MAK.Lib.CoreLite\MAK.Lib.CoreLite.csproj", "{BA57688E-D0BF-4A92-92C8-92A4595F7A18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9961D7AE-AD35-45BF-86D4-0B8FDD4EAA22}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		docs\Record.cs = docs\Record.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA57688E-D0BF-4A92-92C8-92A4595F7A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA57688E-D0BF-4A92-92C8-92A4595F7A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA57688E-D0BF-4A92-92C8-92A4595F7A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA57688E-D0BF-4A92-92C8-92A4595F7A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE4D03A-4455-46F7-86BF-3915EE71F9D0}
+	EndGlobalSection
+EndGlobal
