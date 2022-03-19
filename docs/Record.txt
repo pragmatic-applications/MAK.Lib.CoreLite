@@ -1,0 +1,11 @@
+//=================================================================
+Solution: CoreLite
+//=================================================================
+Programmer: Maurice Antonio Kelly @MAKMaurice
+Description: CoreLite is a .NET library that has core types that can be used by various types of .NET projects.
+Date: 2022-12-19
+Stop: 11:00
+//=================================================================
+Git Message: Upgate project structure.
+NuGet Version: 0.0.0.3
+//=================================================================
