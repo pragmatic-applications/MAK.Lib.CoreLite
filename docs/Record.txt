@@ -1,11 +1,11 @@
 //=================================================================
-Solution: CoreLite
+Project: MAK.LibCoreLite
 //=================================================================
-Programmer: Maurice Antonio Kelly @MAKMaurice
-Description: CoreLite is a .NET library that has core types that can be used by various types of .NET projects.
-Date: 2022-12-19
+Software Engineer: Maurice Antonio Kelly @MAKMaurice
+Description: MAK.LibCoreLite is a .NET library that has core types that can be used by various types of .NET projects.
+Date: 2022-03-30
 Stop: 11:00
 //=================================================================
-Git Message: Upgate project structure.
-NuGet Version: 0.0.0.3
+Git Message: Move to local Windows folder because of macOS .DS_Store file issues with NuGet packages when deploying Blazor Web App that uses this library.
+NuGet: https://www.nuget.org/packages/MAK.LibCoreLite/
 //=================================================================
